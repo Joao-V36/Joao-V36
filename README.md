@@ -4,9 +4,9 @@
 <hr>
 
  <div>
-  <a href="https://github.com/pedriin647">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedriin647&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedriin647&layout=compact&langs_count=8&theme=dark"/>
+  <a href="https://github.com/Joao-V36">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-V36&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-V36&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
