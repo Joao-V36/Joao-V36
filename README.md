@@ -1,10 +1,10 @@
 
 # Olá !! , Me chamo João Victor 👋
 
-Tenho 23 anos moro Em Belo Horizonte-MG sou estudante de Ciências da Computação, Ingressei na área da técnologia por influência de um Primo que é o meu espelho profissional. Desde muito novo via meu primo estudando e se densenvolvendo na carreira da técnologia, com o passar dos tempos ele foi me explicando e repassando alguns de seus conhecimentos adquiridos contando histórias da trajetoria por ele vivida.
+Tenho 23 anos, moro em Belo Horizonte-MG.
+ Sou estudante de Ciências da Computação, ingressei na área da tecnologia por influência de um primo que é o meu espelho profissional. Desde muito novo, via meu primo estudando e se densenvolvendo em sua carreira, com o passar dos tempos ele foi me explicando e repassando alguns de seus conhecimentos adquiridos, contando histórias da trajetória por ele vivida.
 
-Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambiente visando iniciar minha carreira na técnologia. 
-
+Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambiente visando iniciar minha carreira neste meio.
 ## Hobbies e Curiosidades 💥
 
 - Entusiasta de JAVA ☕  
