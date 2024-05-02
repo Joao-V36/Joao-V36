@@ -28,7 +28,7 @@ Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambie
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## :octocat: GitHub Stats 📊
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23202120&title_bg=%23F82440&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoao-V36&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Joao-V36&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
