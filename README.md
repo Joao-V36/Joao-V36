@@ -3,7 +3,7 @@
 
 Tenho 23 anos moro Em Belo Horizonte-MG sou estudante de Ciências da Computação, Ingressei na área da técnologia por influência de um Primo que é o meu espelho profissional. Desde muito novo via meu primo estudando e se densenvolvendo na carreira da técnologia, com o passar dos tempos ele foi me explicando e repassando alguns de seus conhecimentos adquiridos contando histórias da trajetoria por ele vivida.
 
-Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambiente visando iniciar minha carreira na tecnologia. 
+Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambiente visando iniciar minha carreira na técnologia. 
 
 ## Hobbies e Curiosidades 💥
 
