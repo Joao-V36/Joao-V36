@@ -1,7 +1,7 @@
 
 # Olá !! , Me chamo João Victor 👋
 
-Tenho 23 anos, moro em Belo Horizonte-MG.
+Tenho 25 anos, moro em Belo Horizonte-MG.
  Sou estudante de Ciências da Computação, ingressei na área da tecnologia por influência de um primo que é o meu espelho profissional. Desde muito novo, via meu primo estudando e se densenvolvendo em sua carreira, com o passar dos tempos ele foi me explicando e repassando alguns de seus conhecimentos adquiridos, contando histórias da trajetória por ele vivida.
 
 Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambiente visando iniciar minha carreira neste meio.
@@ -17,6 +17,11 @@ Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambie
 <img align="center" alt="Formando-Java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="Formando-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="Formando-GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="Formando-SpringBoot" src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img align="center" alt="Formando-PostgreSQL" src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="center" alt="Formando-MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+
 
 
 
@@ -36,9 +41,9 @@ Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambie
 
  ## Minhas Contribuições 🖥
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=TecTreinamentos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Joao-V36/dio-lab-open-source.git)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=TecTreinamentos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=Simulando-Conta-Bancaria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=Controle-de-Fluxo---Desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=Simulando-Conta-Bancaria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=Controle-de-Fluxo---Desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
