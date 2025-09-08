@@ -54,6 +54,15 @@ Hoje, me dedico a criar **APIs robustas**, **performáticas** e **escaláveis**,
 
 ---
 
+## 🤔 Curiosidades <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">
+
+- 🎮 Sou fã de games.   
+- 🎧 DJ
+- ✝️ Cristão
+- 🌍 Tenho interesse em aprender sobre computação em nuvem e inteligência artificial.  
+
+---
+
 ## 📫 Contato <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="30">
 
 <p align="center">
