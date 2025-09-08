@@ -13,14 +13,15 @@ Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambie
 - DJ 🎧
 
 ## 🛠 Tech Stack
-
-<img align="center" alt="Formando-Java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="Formando-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="center" alt="Formando-GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img align="center" alt="Formando-SpringBoot" src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<img align="center" alt="Formando-PostgreSQL" src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="Formando-MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-
+<a href="#">
+  <img align="center" alt="Formando-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Formando-SpringBoot" src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">   
+  <img align="center" alt="Formando-PostgreSQL" src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">  
+  <img align="center" alt="Formando-MySQL"  src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img align="center" alt="Formando-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Formando-GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">  
+   
+</a>
 
 
 
@@ -39,11 +40,4 @@ Isso me despertou uma curiosidade maior em pesquisar e me aprofundar neste ambie
 
  ![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-V36&layout=compact&theme=dark#gh-dark-mode-only)
 
- ## Minhas Contribuições 🖥
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=TecTreinamentos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=Simulando-Conta-Bancaria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-V36&repo=Controle-de-Fluxo---Desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+ 
