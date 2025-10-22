@@ -37,7 +37,7 @@ Hoje, me dedico a criar **APIs robustas**, **performáticas** e **escaláveis**,
 
 🔹 [**TecTreinamentos**](https://github.com/Joao-V36/TecTreinamentos) – Projeto de estudos HTML e CSS  
 🔹 [**dio-lab-open-source**](https://github.com/Joao-V36/dio-lab-open-source) – Contribuição em open source  
-🔹 [**Desafio JavaSpring**](https://github.com/Joao-V36/Desafio_JavaSpring) – Desafio SpringBoot
+🔹 [**Desafio JavaSpring**](https://github.com/Joao-V36/Desafio_JavaSpring) – Desafio SpringBoot  
 🔹 [**To-Do-Project**](https://github.com/Joao-V36/To-Do-Project) – Projetos FullStack Java + SpringBoot
 
 ---
