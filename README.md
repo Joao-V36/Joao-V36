@@ -35,9 +35,9 @@ Hoje, me dedico a criar **APIs robustas**, **performáticas** e **escaláveis**,
 
 ## 🌟 Projetos em destaque <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">
 
-🔹 [**TecTreinamentos**](https://github.com/Joao-V36/TecTreinamentos) – Projeto de estudos em Java  
+🔹 [**TecTreinamentos**](https://github.com/Joao-V36/TecTreinamentos) – Projeto de estudos HTML e CSS  
 🔹 [**dio-lab-open-source**](https://github.com/Joao-V36/dio-lab-open-source) – Contribuição em open source  
-🔹 [**Simulando Conta Bancária**](https://github.com/Joao-V36/Simulando-Conta-Bancaria) – Exercício de simulação bancária em Java  
+🔹 [**Desafio JavaSpring**](https://github.com/Joao-V36/Desafio_JavaSpring) – Desafio SpringBoot
 🔹 [**To-Do-Project**](https://github.com/Joao-V36/To-Do-Project) – Projetos FullStack Java + SpringBoot
 
 ---
