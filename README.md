@@ -1,82 +1,131 @@
-<!-- Banner animado -->
+<!-- ======================= FUTURISTIC DARK PORTFOLIO ======================= -->
+
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Olá, eu sou o João Victor
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="35">
+  🚀 João Victor
 </h1>
 
 <p align="center">
-  🚀 Desenvolvedor Back-end especializado em <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>APIs REST</strong><br>
-  💻 Estudante de Ciências da Computação · Belo Horizonte-MG
-</p>
-
----
-
-## 🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/api%20rest-02569B.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="API REST"/>
-  <img src="https://img.shields.io/badge/git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
----
-
-## 📌 Sobre mim <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30">
-
-Sempre tive interesse em tecnologia, inspirado por familiares que já seguiam carreira na área.  
-Hoje, me dedico a criar **APIs robustas**, **performáticas** e **escaláveis**, utilizando as melhores práticas de desenvolvimento.  
-
----
-
-## 🌟 Projetos em destaque <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">
-
-🔹 [**TecTreinamentos**](https://github.com/Joao-V36/TecTreinamentos) – Projeto de estudos HTML e CSS  
-🔹 [**dio-lab-open-source**](https://github.com/Joao-V36/dio-lab-open-source) – Contribuição em open source  
-🔹 [**Desafio JavaSpring**](https://github.com/Joao-V36/Desafio_JavaSpring) – Desafio SpringBoot  
-🔹 [**To-Do-Project**](https://github.com/Joao-V36/To-Do-Project) – Projetos FullStack Java + SpringBoot
-
----
-
-## 📊 Estatísticas <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-V36&show_icons=true&theme=radical" alt="Estatísticas GitHub"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Developer;Java+%2B+Spring+Boot+Specialist;Exploring+C%23+and+.NET;Clean+Architecture+Advocate;Building+Scalable+APIs+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-V36&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
-## 🤔 Curiosidades <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">
+# 🧠 SOBRE MIM
 
-- 🎮 Sou fã de games.   
-- 🎧 DJ
-- ✝️ Cristão
-- 🌍 Tenho interesse em aprender sobre computação em nuvem e inteligência artificial.  
+```diff
++ Backend Developer focado em APIs REST escaláveis
++ Desenvolvedor Java & Spring Boot
++ Evoluindo para C# e .NET
++ Focado em Clean Code e Arquitetura Limpa
+```
+
+💻 Desenvolvedor apaixonado por tecnologia e performance.  
+Construo APIs robustas utilizando **Java + Spring Boot**.  
+
+Atualmente expandindo para o universo **C# e .NET**, buscando me tornar um desenvolvedor multiplataforma e ainda mais completo.
 
 ---
 
-## 📫 Contato <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="30">
+# ⚡ TECH STACK
+
+## ☕ Backend Principal
 
 <p align="center">
-  <a href="mailto:joaovictor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joaovictor36">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Joao-V36">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring&logoColor=green"/>
+<img src="https://img.shields.io/badge/API_REST-0D1117?style=for-the-badge&logo=swagger&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPA-0D1117?style=for-the-badge"/>
+
 </p>
 
 ---
 
-✨ Obrigado por visitar meu perfil! Vamos codar juntos? 🚀
+## 🔷 Nova Jornada
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96"/>
+<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+<img src="https://img.shields.io/badge/ASP.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Entity_Framework-0D1117?style=for-the-badge&logo=dotnet&logoColor=violet"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+
+</p>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joao-V36&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-V36&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 MENTALIDADE
+
+```
+✔ Clean Code
+✔ SOLID
+✔ Clean Architecture
+✔ APIs Escaláveis
+✔ Evolução Contínua
+```
+
+---
+
+
+# 🎮 ALÉM DO CÓDIGO
+
+🎧 DJ nas horas vagas  
+🎮 Gamer  
+✝️ Cristão  
+☁️ Estudando Cloud  
+🤖 Explorando IA  
+
+---
+
+# 🤝 CONECTE-SE
+
+<p align="center">
+
+<a href="mailto:joaovictor@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joaovictor36">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/Joao-V36">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
+<h3 align="center">
+⚡ "Código bom resolve. Código limpo evolui."
+</h3>
